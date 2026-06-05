@@ -88,10 +88,9 @@ A multi-panel dashboard was created showing:
 - Python   
 - Pandas  
 - NumPy  
-- Matplotlib  
-- Jupyter Notebook  
-- VS Code  
-
+- Matplotlib   
+- VS Code
+  
 ---
 
 ## ⭐ **Project Impact**
