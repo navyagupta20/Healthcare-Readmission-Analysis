@@ -85,7 +85,7 @@ A multi-panel dashboard was created showing:
 
 ## 🤖 **Tools & Technologies Used**
 
-- Python 🐍  
+- Python   
 - Pandas  
 - NumPy  
 - Matplotlib  
