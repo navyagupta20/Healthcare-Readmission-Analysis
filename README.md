@@ -24,7 +24,7 @@ The goal is to extract actionable insights that can help healthcare providers re
 ## 📂 **Dataset Information**
 
 - **Source:** Diabetes 130-US hospitals dataset (1999–2008)  
-- **Records:** 101,766+  
+- **Records:** 101,766  
 - **Features:** 49  
 - **Type:** Real-world clinical dataset  
 
